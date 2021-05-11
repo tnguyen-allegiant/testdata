@@ -1,0 +1,20 @@
+{
+ "cities": [
+  {
+    "location": "San Fransisco",
+     "availability": 4,
+     "duration": 2.4
+  }, 
+  
+  {
+
+    "location": "San Diego",
+    "availability": 0,
+   "duration": 3.6
+  }, {
+    "location": "Las Vegas",
+    "availability": 6,
+    "duration": 3.5
+  }
+ ]
+}
