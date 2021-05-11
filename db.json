@@ -1,7 +1,7 @@
 {
  "cities": [
   {
-    "location": "San Fransisco",
+    "location": "San Francisco",
      "availability": 4,
      "duration": 2.4
   }, 
